@@ -1,8 +1,0 @@
-packages:
-  - '**/**'
-  - '!docs'
-  - '!cypress'
-  - '!test'
-  - '!multi-threaded-ssr/website2'
-  - '!nextjs-ssr/*'
-  - '!cra-react-app-rewired/*'
